@@ -1,3 +1,5 @@
+Slightly modified onedark.vim with darker background
+
 # onedark.vim
 
 A dark Vim colorscheme for the GUI and 16/256-color terminals, based on [FlatColor](https://github.com/MaxSt/FlatColor), with colors inspired by the excellent [One Dark syntax theme](https://github.com/atom/one-dark-syntax) for the [Atom text editor](https://atom.io).
